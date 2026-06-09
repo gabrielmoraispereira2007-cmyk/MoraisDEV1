@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="LINK_DA_SUA_IMAGEM" width="100%">
+</p>
+
+
 # 👋 Olá, eu sou Gabriel Morais
 
 ## 🚀 Sobre Mim
@@ -39,7 +44,7 @@
 
 ---
 
-# 📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmoraispereira2007-cmyk&show_icons=true&theme=tokyonight)
 
