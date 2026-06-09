@@ -1,3 +1,6 @@
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/fbdd796c-f076-4511-a321-fcba95561a6d" />
+
+
 # 👋 Olá, eu sou Gabriel Morais
 
 ## 🚀 Sobre Mim
