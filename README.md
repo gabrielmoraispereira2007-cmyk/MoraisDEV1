@@ -25,6 +25,16 @@
 - Machine Learning
 - Git e GitHub
 
+## 📂 Projetos em Destaque
+
+🚀 Sistema de Automação em Python
+
+🤖 Agent IA
+
+☕ API REST em Java
+
+📊 Dashboard de Dados
+
 ---
 
 ## 🚀 Tecnologias
