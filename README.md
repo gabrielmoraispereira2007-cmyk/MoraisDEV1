@@ -38,7 +38,7 @@
 
 ## 🎯 Objetivos 2026
 
-- Aprender Python avançado
+- Aprender Java avançado
 - Criar projetos com IA
 - Desenvolver APIs
 - Aprender DevOps
@@ -48,4 +48,4 @@
 
 ## 🌎 Conecte-se Comigo
 
-Adicione aqui seu LinkedIn, Instagram ou Email.
+gabrielmoraispereira07@gmail.com 
