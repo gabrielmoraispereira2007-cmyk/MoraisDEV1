@@ -1,26 +1,20 @@
-<p align="center">
-  <img src="LINK_DA_SUA_IMAGEM" width="100%">
-</p>
-
-
 # 👋 Olá, eu sou Gabriel Morais
 
 ## 🚀 Sobre Mim
-
 
 💻 Desenvolvedor em formação
 
 🤖 Estudando Inteligência Artificial
 
-☕ Aprendendo Java
-
 🐍 Aprendendo Python
+
+☕ Aprendendo Java
 
 📚 Sempre buscando novos conhecimentos
 
 ---
 
-## 📖 Atualmente estudando
+## 📖 Atualmente Estudando
 
 - Python
 - Java
@@ -30,24 +24,28 @@
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🎯 Objetivos 2026
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoraispereira2007-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoraispereira2007-cmyk&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+- Aprender Python avançado
+- Criar projetos com IA
+- Desenvolver APIs
+- Aprender DevOps
+- Conseguir minha primeira oportunidade na área
+
+---
+
+## 🌎 Conecte-se Comigo
+
+Adicione aqui seu LinkedIn, Instagram ou Email.
