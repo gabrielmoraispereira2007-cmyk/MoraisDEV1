@@ -46,6 +46,8 @@
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmoraispereira2007-cmyk&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoraispereira2007-cmyk&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoraispereira2007-cmyk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoraispereira2007-cmyk&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
